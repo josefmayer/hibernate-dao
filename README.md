@@ -12,8 +12,6 @@ JPA Entity <br />
 CRUD operations <br />
 Interface generic <br /> 
 Implementation  <br />
-org.hibernate.Session <br />
-org.hibernate.SessionFactory <br />
 
 ##### Service
 Implementation <br />

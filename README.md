@@ -5,17 +5,17 @@ JPA, Hibernate, MySQL <br />
 
 
 ### Project Structure
-Model: <br />
+##### Model
 JPA Entity <br />
 
-DAO: <br />
+##### DAO
 CRUD operations <br />
 Interface generic <br /> 
 Implementation  <br />
 org.hibernate.Session <br />
 org.hibernate.SessionFactory <br />
 
-Service: <br />
+##### Service
 Implementation <br />
 Transactions: write operations <br />
 
